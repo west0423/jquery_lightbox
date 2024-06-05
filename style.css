@@ -1,0 +1,16 @@
+@charset "UTF-8";
+img   {
+    width: 100%;
+    height: auto;
+  }
+
+  #imgSet   {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+  
+  ul {
+    padding-left: 0;
+    list-style: none;
+  }
